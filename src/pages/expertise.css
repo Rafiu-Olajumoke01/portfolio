@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #22282f;
+    color: #fff;
+}
+
+.services_h2{
+    margin-top: 7% !important;
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+}
+
+span{
+    color: #13bbff;;
+}
+
+.frontend p{
+    margin-top: 2% !important;
+    text-align: justify;
+}

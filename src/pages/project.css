@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+.bg-cover{
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+
+}
+
+.bg-cover a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.bg-cover h2{
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 15%;
+}
+
+.slide-1{
+    background: url(./../images/jasperportpro.jfif);
+}
+
+.slide-2{
+    background: url(./../images//port2.jpg);
+}
+
+.slide-3{
+    background: url(./../images/travelport.jpg);
+}
+
